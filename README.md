@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarmaCoder24
-- I'm a Undergraguate csc student
+- I'm a Undergraguate CSE student
 - 👀 I’m interested in Programming | Linux | System | Anything related computer science and technology and science.
 -  🌱 I’m currently learning ... System
 - 💞️ I’m looking to collaborate on ...
